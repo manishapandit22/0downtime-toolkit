@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# Private planning notes: keep out of the public repo
+PROJECT_CONTEXT.md
+docs/
